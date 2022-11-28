@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Atom/Icon/heart-brd-white-default</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M25.9586772,8.93120785 C25.5937502,4.91460752 22.7507819,2.0004808 19.1928644,2.0004808 C16.8225221,2.0004808 14.6521924,3.27604229 13.4309613,5.32040243 C12.2207886,3.24959831 10.1394069,2 7.80704773,2 C4.24961107,2 1.4061619,4.91412672 1.04171576,8.93072705 C1.01286778,9.10814212 0.894591066,10.0418551 1.25422921,11.5645476 C1.77253124,13.7608404 2.96972238,15.758563 4.71550594,17.3403938 L13.4251917,25.2442594 L22.2844062,17.3408746 C24.0301897,15.758563 25.2273809,13.7613212 25.7456829,11.5645476 C26.1053211,10.0423359 25.9870443,9.10862292 25.9586772,8.93120785 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="27" height="27"></rect>
+    </defs>
+    <g id="Atom/Icon/heart-brd-white-default" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Shape" stroke="#FFFFFF" fill-opacity="0.5" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="Atoms/Colors/Primary/Rock-Blue" mask="url(#mask-2)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Background" fill="#A1BCCF" fill-rule="evenodd" xlink:href="#path-3"></use>
+        </g>
+    </g>
+</svg>

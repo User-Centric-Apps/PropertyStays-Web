@@ -1,0 +1,34 @@
+<?php
+
+namespace App\Traits;
+use Illuminate\Http\UploadedFile;
+use Illuminate\Support\Facades\Storage;
+
+trait UploadTrait
+{
+
+    public function uploadOne(UploadedFile $uploadedFile, $folder = null, $disk = 'public', $filename = null)
+    {
+        $name = !is_null($filename) ? $filename : str_random(25);
+        $file = $uploadedFile->storeAs($folder, $name.'.'.$uploadedFile->getClientOriginalExtension(), $disk);
+        return $file;
+    }
+
+    public function UnlinkImage($folder, $fileName)
+    {
+
+        //$old_image = storage_path()."/app/public/uploads/".$fileName;
+
+        $old_image = storage_path()."/app/public/uploads/".$folder.$fileName;
+
+        if (file_exists($old_image)) {
+
+           @unlink($old_image);
+
+        }
+
+    }
+
+
+
+}

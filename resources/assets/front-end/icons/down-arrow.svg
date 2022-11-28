@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Atoms/Icons/Line/down-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.4373684,12.499877 L16.9216045,3.01564089 C17.154576,2.78266941 17.154576,2.40860253 16.9216045,2.17497479 C16.688633,1.94134706 16.3145661,1.94200331 16.0809384,2.17497479 L6.17472861,12.0811846 C5.94175713,12.3141561 5.94175713,12.688223 6.17472861,12.9218507 L16.0809384,22.8241229 C16.1951272,22.9383118 16.3493478,23 16.4989746,23 C16.6486013,23 16.8028219,22.9429056 16.9170107,22.8241229 C17.1499822,22.5911515 17.1499822,22.2170846 16.9170107,21.9834568 L7.4373684,12.4992207 L7.4373684,12.499877 Z" id="path-1"></path>
+        <rect id="path-3" x="0" y="0" width="24" height="24"></rect>
+    </defs>
+    <g id="Atoms/Icons/Line/down-arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Shape" fill="#000000" fill-rule="nonzero" transform="translate(11.548167, 12.500000) rotate(-90.000000) translate(-11.548167, -12.500000) " xlink:href="#path-1"></use>
+        <g id="Brand/Colors/Primary/Pickled-Bluewood" mask="url(#mask-2)">
+            <mask id="mask-4" fill="white">
+                <use xlink:href="#path-3"></use>
+            </mask>
+            <use id="Background" fill="#263646" fill-rule="evenodd" xlink:href="#path-3"></use>
+        </g>
+    </g>
+</svg>

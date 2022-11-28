@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="27px" viewBox="0 0 27 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Atoms/Icon/location-pin</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Atoms/Icon/location-pin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M13.3333333,1 C8.72619048,1 5,4.9125 5,9.75 C5,16.3125 13.3333333,26 13.3333333,26 C13.3333333,26 21.6666667,16.3125 21.6666667,9.75 C21.6666667,4.9125 17.9404762,1 13.3333333,1 Z M13.7962963,13.037037 C12.0074074,13.037037 10.5555556,11.5851852 10.5555556,9.7962963 C10.5555556,8.00740741 12.0074074,6.55555556 13.7962963,6.55555556 C15.5851852,6.55555556 17.037037,8.00740741 17.037037,9.7962963 C17.037037,11.5851852 15.5851852,13.037037 13.7962963,13.037037 Z" id="Shape" fill="#FD5739"></path>
+    </g>
+</svg>
